@@ -26,9 +26,9 @@
 
 🖥️ IT Specialist at Electromart
 
-⚔️ Founder/Software Dev of CTRLCompete
+⚔️ Founder/Developer of CTRLCompete
 
-📚 Currently studying at Mohawk College
+📚 Studying at Mohawk College
 
 <br>
 </td><td valign="top" width=15%>
