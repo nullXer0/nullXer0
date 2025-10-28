@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width=50%>
+<td valign="top">
 
 ## About Me
 🖥️ IT Specialist at Electromart
@@ -11,7 +11,7 @@
 
 <br>
 </td>
-<td valign="top" width=50%>
+<td valign="top">
 
 ## Language Experience
 - Java
@@ -25,7 +25,7 @@
 </tr>
 
 <tr>
-<td valign="top" width=50%>
+<td valign="top">
 
 ## Current Projects
 ### CTRLCompete
@@ -33,7 +33,7 @@
 
 <br>
 </td>
-<td valign="top" width=50%>
+<td valign="top">
 
 ## Future Projects
 ### CTRLCompete
