@@ -22,7 +22,7 @@
 </th>
 </tr>
 <tr>
-<td valign="top" width=35%>
+<td valign="top" width=35%> <!-- About Me -->
 
 🖥️ IT Specialist at Electromart
 
@@ -31,26 +31,25 @@
 📚 Studying at Mohawk College
 
 <br>
-</td><td valign="top" width=15%>
+</td><td valign="top" width=15%> <!-- Languages -->
 
 - Java
-- PHP
-- JavaScript
-- HTML/CSS
+- Kotlin
 - C#
+- SQL
+- JavaScript
+- PHP
+- HTML/CSS
 
 <br>
-</td><td valign="top" width=25%>
+</td><td valign="top" width=25%> <!-- Current Projects -->
 
-### CTRLCompete Discord
-- CPU Bot (Private Repo)
+
 
 <br>
-</td><td valign="top" width=25%>
+</td><td valign="top" width=25%> <!-- Future Projects -->
 
-### CTRLCompete Discord
-- Giveaway Bot
-- Instance Server Manager
+
 
 <br>
 </td>
